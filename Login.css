@@ -1,0 +1,14 @@
+* {
+  background-color: #f0f2f5;
+}
+.facebook {
+  text-align: center;
+  color: #3386f2;
+}
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: calc(100vh - 50vh);
+}
